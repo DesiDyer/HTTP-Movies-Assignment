@@ -2,7 +2,7 @@
 
 ## Instructions
 
-### Task 1: Project Setup 
+### Task 1: Project Setup
 
 - **Fork** this repository, then clone your fork.
 - Run `npm install` to download dependencies.
@@ -58,7 +58,7 @@ Movie object format:
 }
 ```
 
-### Task 2b: Exit Ticket 
+### Task 2b: Exit Ticket
 
 Once you begin, you will have 15 minutes to answer the questions [here](https://app.codesignal.com/public-test/hNvz7zyxgmYobvSwb/HzrJFpaxkxvq86).
 
@@ -71,5 +71,6 @@ The completion of these questions is mandatory for MVP. However, passing the qui
 - Style the app!
 
 ## Submission Format
-* [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
-* [ ] Fill out your module retrospective form [here](https://forms.lambdaschool.com/module-retrospective) with a link to your PR
+
+- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's Repo). **Please don't merge your own pull request**
+- [ ] Fill out your module retrospective form [here](https://forms.lambdaschool.com/module-retrospective) with a link to your PR
